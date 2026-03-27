@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Bulk Sender",
+  "description": "A productivity tool for freelancers to send bulk WhatsApp messages quickly with validation and delay.",
+  "requestFramePermissions": []
+}
